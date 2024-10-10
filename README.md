@@ -27,6 +27,26 @@
 
 ---
 
+# Prerequisite
+
+Before starting this project, make sure to log in to the following platforms for tasks such as querying, ERD creation, and dashboard development:
+
+1. **Log in to BigQuery**  
+   BigQuery is used for querying data. Ensure you have a Google account and are logged in to BigQuery to start querying data.
+
+2. **Log in to SQLite (Optional)**  
+   If you prefer to use SQLite as a local database option, log in to SQLite and set up your environment as needed for this project.
+
+3. **Log in to Lucidchart for ERD Creation**  
+   Lucidchart is used to create the Entity Relationship Diagram (ERD) necessary for database design.  
+   [Access Lucidchart here](https://www.lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier3_mixed_search_brand_exact_&km_CPC_CampaignId=1484560207&km_CPC_AdGroupID=60168114191&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=442433234360&km_CPC_TargetID=kwd-33511936169&km_CPC_Country=9121395&km_CPC_Device=m&km_CPC_placement=&km_CPC_target=&gad_source=1&gclid=CjwKCAjw9p24BhB_EiwA8ID5BncoNb8h85svUHHq2P_Pkxxu1OIwRdj5QADrKv-DDaThecsSz48L3hoClxoQAvD_BwE)
+
+4. **Log in to Google Looker Studio for Dashboard Creation**  
+   Looker Studio is used to create dashboards for data visualization.  
+   [Access Google Looker Studio here](https://cloud.google.com/looker-studio/?utm_source=google&utm_medium=cpc&utm_campaign=japac-ID-all-en-dr-BKWS-all-all-trial-PHR-dr-1605216&utm_content=text-ad-none-none-DEV_m-CRE_664894245789-ADGP_Hybrid+%7C+BKWS+-+BRO+%7C+Txt+-Data+Analytics-Google+Data+Studio-data+studio-main-KWID_43700077402521123-kwd-300170314731&userloc_9121395-network_g&utm_term=KW_data+studio&gad_source=1&gclid=CjwKCAjw9p24BhB_EiwA8ID5BviwIMikuK88SXeNvOF2m_Zt2Lp40V_xYpZ2xeGEMaxwse6aXhHqSBoCX6EQAvD_BwE&gclsrc=aw.ds&hl=id)
+
+---
+
 # **Problem Statement**
 As part of the project-based internship at Bank Muamalat, the interns were assigned the task of analyzing a dataset of technology product sales. Although not directly related to the banking sector, this project aims to enhance data analysis and visualization skills that can be applied across various industries, particularly the tools used directly in cases at Bank Muamalat itself.
 
